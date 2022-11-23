@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Atharva Nanavate!</h1>
-<h3 align="justify">I'm currently a third year student @ PCCoE, Pune. I'm pursuing B.Tech in Information Technology. • I'm an AWS Certified Cloud Practitioner. Being a Cloud enthusiast, it's amazing to learn about its application in almost every field across the globe. • I'm an intermediate-level Web Developer aiming to become an expert in Full Stack Web Development. I'm learning how to build a server less backend and deploy an entire Web Application to a Cloud Platform such as Amazon Web Services (AWS) or Google Cloud Platform (GCP).</h3>
+<h3 align="justify">I'm currently a third year student @ PCCoE, Pune. I'm pursuing B.Tech in Information Technology. 
+  <br><br>
+  • I'm an AWS Certified Cloud Practitioner. Being a Cloud enthusiast, it's amazing to learn about its application in almost every field across the globe. 
+  <br><br>
+  • I'm an intermediate-level Web Developer aiming to become an expert in Full Stack Web Development. I'm learning how to build a server less backend and deploy an entire Web Application to a Cloud Platform such as Amazon Web Services (AWS) or Google Cloud Platform (GCP).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvananavate&label=Profile%20views&color=0e75b6&style=flat" alt="atharvananavate" /> </p>
 
@@ -9,9 +13,9 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, AWS, DevOps**
 
-- 📫 How to reach me **atharvananavate@gmail.com**
+- 📫 How to reach me : **atharvananavate@gmail.com**
 
-- ⚡ Fun fact **I'm a professional Speed Cuber. I can solve the traditional 3x3 cube in an average of 15 seconds. Apart from this, I can also solve 15+ different types of cubes and puzzles, like 2x2 - 7x7, Pyraminx, Megaminx, Square-1, Skewb and many more.**
+- ⚡ Fun fact : **I'm a professional Speed Cuber. I can solve the traditional 3x3 cube in an average of 15 seconds. Apart from this, I can also solve 15+ different types of cubes and puzzles, like 2x2 - 7x7, Pyraminx, Megaminx, Square-1, Skewb and many more.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
